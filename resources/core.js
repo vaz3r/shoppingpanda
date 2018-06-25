@@ -26,9 +26,9 @@ window.onclick = function (event) {
 }
 
 bgImage.onmouseenter = function () {
-    bgImage.setAttribute("src", "smilingpanda.svg");
+    bgImage.setAttribute("src", "https://shoppingpanda.ga/resources/smilingpanda.svg");
 }
 
 bgImage.onmouseleave = function () {
-    bgImage.setAttribute("src", "panda.svg");
+    bgImage.setAttribute("src", "https://shoppingpanda.ga/resources/panda.svg");
 }
